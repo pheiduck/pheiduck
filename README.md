@@ -21,15 +21,3 @@
 </div>
 
 ---
-
-<p  align="center">
-    <a href= "https://blog.sabonchi.de/">
-        <img src="https://img.icons8.com/material-outlined/26/000000/ball-point-pen.png"/>
-    </a>
-    <a href= "https://www.youtube.com/channel/UCflH8E8GQ3UfEb2k8bWMolA">
-        <img src="https://img.icons8.com/material-outlined/30/000000/youtube.png"/>
-    </a>   
-    <a href= "https://twitter.com/FlorianJSa">
-        <img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/>
-    </a>
-</p>
