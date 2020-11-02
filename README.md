@@ -33,6 +33,3 @@
         <img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/>
     </a>
 </p>
-
-
-
