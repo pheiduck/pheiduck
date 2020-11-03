@@ -1,5 +1,5 @@
 <h1>Welcome to my GitHub Page<h1>
-
+---
 ```bash
 My name is Philip, I am a System Administrator on a medium-sized company.
 I am also a Member of Tux Tage (IT-Team).
