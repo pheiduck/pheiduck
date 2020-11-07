@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./index.gif"></a>
+</p>
 ```bash
 Welcome to my GitHub Page
 My name is Philip, I am a System Administrator on a medium-sized company.
