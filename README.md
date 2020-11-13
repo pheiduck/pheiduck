@@ -3,10 +3,6 @@
 </p>
 
 <p align="center">
-  <a href="https://www.tux-tage.de/"><img src="./468-60-max.png"></a>
-</p>
-
-<p align="center">
 
 ```bash
 Welcome to my GitHub Page
@@ -14,17 +10,17 @@ My name is Philip, I am a System Administrator on a medium-sized company.
 I am also a Member of Tux Tage (IT-Team).
 There is not a lot of content, some Projects are on GitLab which I maintain or contribute.
 ```
+</p>
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=pheiduck&theme=gotham">
+<p align="center">
+  <a href="https://www.tux-tage.de/"><img src="./468-60-max.png"></a>
+</p>
 
-<br>
+---
 
-
-### 🌍 The languages I use
-
-| ⏰ Past month                                                                                                                                           | ⌛️ Past Year                                                                                                                                           |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| <a href="https://wakatime.com/@pheiduck"><img src="https://wakatime.com/share/@pheiduck/6dda82e4-1672-4698-9fed-78adb85e9e0a.svg" height="300px"></a> | <a href="https://wakatime.com/@pheiduck"><img src="https://wakatime.com/share/@pheiduck/b3f2f765-617c-4263-ae0b-f3fed553809f.svg" height="300px"></a> |
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pheiduck&theme=gotham">
+</p>
 
 ---
 <p align="center">
