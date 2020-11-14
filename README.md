@@ -5,7 +5,6 @@
 <p align="center">
 
 ```bash
-Welcome to my GitHub Page
 My name is Philip, I am a System Administrator on a medium-sized company.
 I am also a Member of Tux Tage (IT-Team).
 There is not a lot of content, some Projects are on GitLab which I maintain or contribute.
