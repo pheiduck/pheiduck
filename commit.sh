@@ -7,4 +7,4 @@ timestamp() {
 
 git commit -am "Regular auto-commit $(timestamp)"
 
-ping www.github.com && git push origin --all || echo "not connected"
+ping -c5 www.github.com && git push origin --all || echo "not connected"
