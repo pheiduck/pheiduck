@@ -27,4 +27,3 @@ There is not a lot of content, some Projects are on GitLab which I maintain or c
 <a href="https://docs.microsoft.com/de-de/dotnet/csharp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40" lign="left"/></a>
 <a href="https://visualstudio.microsoft.com/de"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" width="40" height="40" lign="left"/></a>
 <a href="https://wiki.selfhtml.org/wiki/HTML/Tutorials/HTML5"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" lign="left"/></a>
-</div>
