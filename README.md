@@ -11,9 +11,9 @@ There is not a lot of content, some Projects are on GitLab which I maintain or c
 ```
 </p>
 
-<p align="center">
+/*<p align="center">
   <a href="https://www.tux-tage.de/"><img src="./468-60-max.png"></a>
-</p>
+</p>*/
 
 ---
 
