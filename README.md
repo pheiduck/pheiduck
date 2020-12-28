@@ -14,10 +14,10 @@ There is not a lot of content, some Projects are on GitLab which I maintain or c
 ---
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=pheiduck&theme=dark">
+  <img src="https://github-readme-stats.vercel.app/api?username=pheiduck&theme=dark&show_icons=true&layout=compact">
 </p>
 <p align="right">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pheiduck&theme=dark">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pheiduck&theme=dark&show_icons=true&layout=compact">
 </p>
 
 ---
