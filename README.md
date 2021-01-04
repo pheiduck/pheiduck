@@ -26,6 +26,8 @@ There is not a lot of content, some Projects are on GitLab which I maintain or c
 <a href="https://github.com/pheiduck"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"  width="40" height="40" lign="left"/></a>
 <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="debian" width="40" height="40" lign="left"/></a>
 <a href="https://www.kernel.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" lign="left"/></a>
+<a href="https://www.archlinux.org"><img src="https://archlinux.org/static/logos/archlinux-logo-dark-90dpi.ebdee92a15b3.png" width="40" height="40" lign="left"/></a>
+<a href="https://www.manjaro.org"><img src="https://manjaro.org/img/logo.svg" width="40" height="40" lign="left"/></a>
 <a href="https://www.mysql.com/de"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" lign="left"/></a>
 <a href="https://docs.microsoft.com/de-de/dotnet/csharp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40" lign="left"/></a>
 <a href="https://visualstudio.microsoft.com/de"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" width="40" height="40" lign="left"/></a>
