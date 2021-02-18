@@ -24,6 +24,7 @@ There is not a lot of content, some Projects are on GitLab which I maintain or c
 <p align="center">
 <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" lign="left"/></a>
 <a href="https://github.com/pheiduck"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"  width="40" height="40" lign="left"/></a>
+<a href="https://gitlab.manjaro.org/pheiduck"><img src="https://about.gitlab.com/images/home/illustrations_gitlab_logo.svg"  width="40" height="40" lign="left"/></a>
 <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="debian" width="40" height="40" lign="left"/></a>
 <a href="https://www.kernel.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" lign="left"/></a>
 <a href="https://www.archlinux.org"><img src="https://archlinux.org/static/logos/archlinux-logo-dark-90dpi.ebdee92a15b3.png" width="80" height="39" lign="left"/></a>
