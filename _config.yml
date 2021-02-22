@@ -1,1 +1,11 @@
-theme: jekyll-theme-cayman
+title: pheiduck / GitHub Dashboard
+email: pheiduck@github.com
+
+url: "https://pheiduck.github.io/pheiduck"
+gitlab_username: pheiduck
+github_username:  pheiduck
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
