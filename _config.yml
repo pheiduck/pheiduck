@@ -1,1 +1,9 @@
-theme: minimal
+title: pheiduck / GitHub Dashboard
+email: pheiduck@github.com
+
+url: "https://pheiduck.github.io/pheiduck"
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
