@@ -1,0 +1,9 @@
+title: pheiduck / GitHub Dashboard
+email: pheiduck@github.com
+
+url: "https://pheiduck.github.io/pheiduck"
+
+# Build settings
+remote_theme: pages-themes/minimal@master
+plugins:
+- jekyll-remote-theme
