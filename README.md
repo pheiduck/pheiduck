@@ -6,6 +6,7 @@
     <a align="left"><strong>About Me:</strong></a>
 <p>
 👨🏻‍💼 Hi 👋 My name is Philip, I am a System Administrator. <br>
+🏎️ Running Servers on Manjaro headless image btw <br>
 🐧 I am also a Member of Tux Tage (IT-Team). <br>
 🤝 There is not a lot of content, some Projects are on GitLab which I maintain or contribute. <br>
 ⚙️ Likes to automate tasks which needs to be constantly maintained. <br>
