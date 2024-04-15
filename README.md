@@ -41,7 +41,8 @@ Buy me a <a href="https://ko-fi.com/pheiduck"><img src="https://img.shields.io/b
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pheiduck&repo=pheiduck&theme=vue-dark)](https://pheiduck.github.io/pheiduck)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pheiduck&repo=zshlab&theme=vue-dark)](https://github.com/pheiduck/zshlab)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pheiduck&repo=auto-commit&theme=vue-dark)](https://github.com/pheiduck/auto-commit)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pheiduck&repo=python_projects&theme=vue-dark)](https://github.com/pheiduck/python_projects)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pheiduck&repo=rust_projects&theme=vue-dark)](https://github.com/pheiduck/rust_projects)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pheiduck&repo=phandrix&theme=vue-dark)](https://github.com/pheiduck/phandrix)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pheiduck&repo=rpi_configs&theme=vue-dark)](https://github.com/pheiduck/rpi_configs)
 
 ---
