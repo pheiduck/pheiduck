@@ -7,7 +7,6 @@
 <p>
 👨🏻‍💼 Hi 👋 My name is Philip, I am a System Administrator. <br>
 🏎️ Running Servers on Manjaro headless image btw <br>
-🐧 I am also a Member of Tux Tage (IT-Team). <br>
 🤝 There is not a lot of content, some Projects are on GitLab which I maintain or contribute. <br>
 ⚙️ Likes to automate tasks which needs to be constantly maintained. <br>
 👨🏻‍💻 Developer for [paste in number here]: <br> <img src="https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white" height="14"/> Projects: <a href="https://gitlab.manjaro.org/packages/community/manjaro-zsh-config/-/commits/master?author=Philip%20H">
