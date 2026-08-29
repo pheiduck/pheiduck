@@ -64,7 +64,7 @@ Buy me a <a href="https://ko-fi.com/pheiduck"><img src="https://img.shields.io/b
       <a href="https://github.com/pheiduck"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/></a>
     </td>
     <td align="center" width="50">
-      <a href="https://gitlab.manjaro.org/pheiduck"><img src="https://about.gitlab.com/images/home/illustrations_gitlab_logo.svg" width="40" height="40"/></a>
+      <a href="https://gitlab.manjaro.org/pheiduck"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/gitlab/gitlab-original.svg" width="40" height="40"/></a>
     </td>
     <td align="center" width="50">
       <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
